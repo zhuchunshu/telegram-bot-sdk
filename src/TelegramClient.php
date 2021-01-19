@@ -14,7 +14,7 @@ use Telegram\Bot\HttpClients\HttpClientInterface;
 class TelegramClient
 {
     /** @var string Telegram Bot API URL. */
-    const BASE_BOT_URL = 'https://tgapi.xuanvps.com/bot';
+    const BASE_BOT_URL = 'http://tgapi.xuanvps.com/bot';
 
     /** @var HttpClientInterface|null HTTP Client. */
     protected $httpClientHandler;
