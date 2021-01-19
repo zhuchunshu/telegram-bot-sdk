@@ -1,15 +1,15 @@
-{
-  "name": "irazasyed/telegram-bot-sdk",
+  {
+  "name": "zhuchunshu/telegram-bot-sdk",
   "description": "The Unofficial Telegram Bot API PHP SDK",
   "keywords": ["telegram", "telegram bot", "telegram bot api", "telegram sdk", "telegram php", "laravel telegram", "laravel"],
   "type": "library",
-  "homepage": "https://github.com/irazasyed/telegram-bot-sdk",
+  "homepage": "https://github.com/zhuchunshu/telegram-bot-sdk",
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Syed Irfaq R.",
-      "email": "syed+gh@lukonet.com",
-      "homepage": "https://github.com/irazasyed"
+      "name": "Inkedeus",
+      "email": "admin@zhuchunshu.com",
+      "homepage": "https://github.com/zhuchunshu"
     }
   ],
   "require": {
